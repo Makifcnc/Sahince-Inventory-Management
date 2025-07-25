@@ -109,6 +109,13 @@ const Sidebar = () => {
           height={27}
           className="rounded w-8"
         /> */}
+        <Image
+          src="/sahince-logo.JPG"
+          alt="Logo"
+          width={32}
+          height={32}
+          className="rounded w-8"
+        />
         <h1
           className={`${isSidebarCollapsed ? "hidden" : "block"
             } font-extrabold text-2xl`}
